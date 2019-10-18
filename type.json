@@ -8,24 +8,68 @@
     "infoUrl": "https://no.wikipedia.org/wiki/IUCNs_r%C3%B8dliste#R%C3%B8dlistestatus",
     "sortering": 5
   },
-  "RL-RE": { "sortering": 1, "tittel": { "nb": "Regionalt utdødd" } },
-  "RL-CR": { "sortering": 2, "tittel": { "nb": "Kritisk truet" } },
+  "RL-RE": {
+    "sortering": 1,
+    "tittel": { "nb": "Regionalt utdødd" },
+    "beskrivelse": {
+      "nb": "Svært liten tvil om at arten er utdødd fra Norge."
+    },
+    "farge": "#8c8a85"
+  },
+  "RL-CR": {
+    "sortering": 2,
+    "farge": "#f01010",
+    "tittel": { "nb": "Kritisk truet" },
+    "beskrivelse": {
+      "nb": "Ekstremt høy risiko for utdøing.  Minst 50 % sannsynlighet for utdøing innen 3 generasjoner eller 10 år – maks. 100 år)"
+    }
+  },
   "RL-EN": {
     "sortering": 3,
     "farge": "#FFA500",
-    "tittel": { "nb": "Sterkt truet" }
+    "tittel": { "nb": "Sterkt truet" },
+    "beskrivelse": {
+      "nb": "Svært høy risiko for utdøing (Minst 20 % sannsynlighet for utdøing innen 5 generasjoner eller 20 år – maks. 100 år)."
+    }
   },
-  "RL-VU": { "sortering": 4, "farge": "#FFFF00", "tittel": { "nb": "Sårbar" } },
+  "RL-VU": {
+    "sortering": 4,
+    "farge": "#FFFF00",
+    "tittel": { "nb": "Sårbar" },
+    "beskrivelse": {
+      "nb": "Høy risiko for utdøing (Minst 10 % sannsynlighet for utdøing innen 100 år)."
+    }
+  },
   "RL-NT": {
     "sortering": 5,
     "farge": "#AEFF2F",
-    "tittel": { "nb": "Nær truet" }
+    "tittel": { "nb": "Nær truet" },
+    "beskrivelse": {
+      "nb": "Minst 5 % sannsynlighet for utdøing innen 100 år*)."
+    }
   },
-  "RL-LC": { "sortering": 6, "tittel": { "nb": "Ikke rødlistet" } },
-  "RL-NA": { "sortering": 7, "tittel": { "nb": "Ikke vurdert" } },
+  "RL-LC": {
+    "sortering": 6,
+    "farge": "#008000",
+    "tittel": { "nb": "Ikke rødlistet" },
+    "beskrivelse": {
+      "nb": "Oppfyller ingen av kriteriene for kategoriene CR, EN, VU eller NT, og ikke er satt til kategoriene DD eller NE. Kategorien intakt sier ikke noe om den historiske utbredelsen."
+    }
+  },
+  "RL-NE": {
+    "sortering": 7,
+    "farge": "#FFF",
+    "tittel": { "nb": "Ikke vurdert" },
+    "beskrivelse": {
+      "nb": "Det er ikke gjort noen rødlistevurdering. Dette kan skyldes svært dårlig kunnskapsgrunnlag eller mangel på tilgjengelig kompetanse. "
+    }
+  },
   "RL-DD": {
     "sortering": 8,
     "farge": "#808080",
-    "tittel": { "nb": "Datamangel" }
+    "tittel": { "nb": "Datamangel" },
+    "beskrivelse": {
+      "nb": "Mer kunnskap nødvendig før kategori kan fastsettes."
+    }
   }
 }
