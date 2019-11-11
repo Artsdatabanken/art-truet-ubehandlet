@@ -1,0 +1,28 @@
+{
+  "Øs": { "koder": ["AO-TO-FL-01"], "tittel": "Østfold" },
+  "OsA": {
+    "koder": ["AO-TO-FL-02", "AO-TO-FL-03"],
+    "tittel": "Oslo og Akershus"
+  },
+  "Ve": { "koder": ["AO-TO-FL-07"], "tittel": "Vestfold" },
+  "Te": { "koder": ["AO-TO-FL-08"], "tittel": "Telemark" },
+  "Aa": { "koder": ["AO-TO-FL-09"], "tittel": "Aust-Agder" },
+  "Va": { "koder": ["AO-TO-FL-10"], "tittel": "Vest-Agder" },
+  "Ro": { "koder": ["AO-TO-FL-11"], "tittel": "Rogaland" },
+  "Ho": { "koder": ["AO-TO-FL-12"], "tittel": "Hordaland" },
+  "Sf": { "koder": ["AO-TO-FL-14"], "tittel": "Sogn og Fjordane" },
+  "Mr": { "koder": ["AO-TO-FL-15"], "tittel": "Møre og Romsdal" },
+  "St": { "koder": ["AO-TO-FL-50"], "tittel": "Sør-Trøndelag" },
+  "No": { "koder": ["AO-TO-FL-18"], "tittel": "Nordland" },
+  "Bu": { "koder": ["AO-TO-FL-06"], "tittel": "Buskerud" },
+  "Op": { "koder": ["AO-TO-FL-05"], "tittel": "Oppland" },
+  "He": { "koder": ["AO-TO-FL-04"], "tittel": "Hedmark" },
+  "Nt": { "koder": ["AO-TO-FL-50"], "tittel": "Nord-Trøndelag" },
+  "Tr": { "koder": ["AO-TO-FL-19"], "tittel": "Troms" },
+  "Fi": { "koder": ["AO-TO-FL-20"], "tittel": "Finnmark" },
+  "Sv": {
+    "koder": ["AO-TO-SV", "AO-TO-ST-SV"],
+    "tittel": "Svalbard med sjøområder"
+  },
+  "Jm": { "koder": ["AO-TO-JM"], "tittel": "Jan Mayen" }
+}
